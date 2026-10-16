@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 环境变量
+.env
+
+# 构建产物
+dist/
+build/
+*.egg-info/
+
+# 系统文件
+.DS_Store
+Thumbs.db

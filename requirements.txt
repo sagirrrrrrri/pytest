@@ -1,0 +1,12 @@
+# pytest 学习计划配套依赖
+# 环境：G:\Python312（3.12.10）
+# 安装：py312 -m pip install -r requirements.txt
+
+pytest>=9.0
+pytest-cov>=7.0
+pytest-html>=4.0
+pytest-mock>=3.16
+pytest-xdist>=3.8
+pytest-timeout>=2.5
+pytest-ordering>=0.6
+pytest-sugar>=1.1
